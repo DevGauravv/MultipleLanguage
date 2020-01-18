@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Multiple Language Support</string>
+
+    <string name="display_text"> I love software development and general programming</string>
+
+
+</resources>
